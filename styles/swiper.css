@@ -1,0 +1,39 @@
+:root {
+  --slide-background-color: #27303e;
+  --button-color: #dbdbdb;
+  --active-bullet: #ffd028;
+  --bullet: #dbdbdb;
+  --swiper-navigation-sides-offset: 0;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: var(--button-color);
+}
+
+.swiper-pagination-bullet {
+  width: 8px;
+  height: 8px;
+  background-color: var(--bullet);
+  left: 0 !important;
+}
+
+.swiper-pagination-bullet-active.swiper-pagination-bullet {
+  width: 8px;
+  height: 8px;
+  background-color: var(--active-bullet);
+}
+
+.swiper-pagination {
+  width: 70% !important;
+}
+
+.swiper-pagination-bullet {
+  display: none;
+}
+.swiper-pagination-bullet-active,
+.swiper-pagination-bullet.swiper-pagination-bullet-active-main,
+.swiper-pagination-bullet.swiper-pagination-bullet-active-prev,
+.swiper-pagination-bullet.swiper-pagination-bullet-active-next {
+  display: inline-block;
+}

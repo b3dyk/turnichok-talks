@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "icon": "/icons/why-us/wi-fi.svg",
+    "title": "Онлайн навчання",
+    "description": "Здобувай знання будь-де"
+  },
+  {
+    "id": 2,
+    "icon": "/icons/why-us/people.svg",
+    "title": "Групи по 16 осіб",
+    "description": "Вчитель приділяє увагу кожному"
+  },
+  {
+    "id": 3,
+    "icon": "/icons/why-us/phone.svg",
+    "title": "Зворотный звязок",
+    "description": "Оперативна служба підтримки студентів"
+  },
+  {
+    "id": 4,
+    "icon": "/icons/why-us/table.svg",
+    "title": "Практичні заняття",
+    "description": "Практичні завдання на кожному занятті"
+  },
+  {
+    "id": 5,
+    "icon": "/icons/why-us/men.svg",
+    "title": "Викладачі практики",
+    "description": "Всі наші викладачі є професіоналами"
+  },
+  {
+    "id": 6,
+    "icon": "/icons/why-us/video.svg",
+    "title": "Відеозапис занять",
+    "description": "Є можливість переглядати заняття будь-коли"
+  }
+]

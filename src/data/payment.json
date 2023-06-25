@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "icon": ["/icons/payment/liqpay.svg", "/icons/payment/mono.svg"],
+    "type": "payment",
+    "title": "Оплата онлайн",
+    "text": "Оплата за допомогою зручних сервісів"
+  },
+  {
+    "id": 3,
+    "icon": ["/icons/payment/payment.svg"],
+    "title": "Оплата частинами",
+    "type": "inParts",
+    "text": "Ви маєте можливість розтермінування платежів"
+  },
+  {
+    "id": 2,
+    "icon": ["/icons/payment/guarantee.svg"],
+    "title": "Гарантія повернення оплати",
+    "type": "guarantee",
+    "text": "До другого заняття ви можете повернути 100% внесених за навчання коштів."
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "normal":{
+    "width":177,
+    "src":"/icons/logo/logo.svg"
+  },
+  "grey":{
+    "width":181,
+    "src":"/icons/logo/logo-grey.svg"
+  },
+  "small":{
+    "width":28,
+    "src":"/icons/logo/logo-small.svg"
+  }
+}

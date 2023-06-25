@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "title": "10 років",
+    "text": "Школа надає освітні послуги",
+    "icon": "/icons/intro/years.png"
+  },
+  {
+    "id": 1,
+    "title": "7000+",
+    "text": "людей щодня відвідують сайт Школи",
+    "icon": "/icons/intro/people.png"
+  },
+  {
+    "id": 2,
+    "title": "400+",
+    "text": "викладачів-практиків",
+    "icon": "/icons/intro/teachers.png"
+  },
+  {
+    "id": 4,
+    "title": "30+",
+    "text": "курсів з актуальних професій",
+    "icon": "/icons/intro/light.png"
+  }
+]

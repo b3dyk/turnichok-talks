@@ -1,0 +1,134 @@
+[
+  {
+    "id": 0,
+    "title": "Front-end Basic",
+    "description": "Розробка видимої частини будь-якого сайту називається Front-end, і це область програмування, яка розвивається швидше за інші. Жоден сучасний веб-сайт і веб-додаток не обійдуться без Front-end розробника",
+    "promotion": true,
+    "studyingTimeText": "16 занять",
+    "price": 6500,
+    "numberOfVacancies": "Залишилось 5 місць",
+    "video": "z3FA2kALScU",
+    "url": "front-end-basic",
+    "technologies": [
+      {
+        "type": "html",
+        "icon": "/icons/courses/html.svg",
+        "title": "html5"
+      },
+      {
+        "type": "css",
+        "icon": "/icons/courses/css.svg",
+        "title": "css"
+      },
+      {
+        "type": "sass",
+        "icon": "/icons/courses/sass.svg",
+        "title": "sass"
+      },
+      {
+        "type": "bootstrap",
+        "icon": "/icons/courses/bootstrap.svg",
+        "title": "bootstrap"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "JavaScript Basic",
+    "description": "Розробка видимої частини будь-якого сайту називається Front-end, і це область програмування, яка розвивається швидше за інші. Жоден сучасний веб-сайт і веб-додаток не обійдуться без Front-end розробника",
+    "promotion": false,
+    "studyingTimeText": "16 занять",
+    "price": 8500,
+    "numberOfVacancies": "Залишилось 8 місць",
+    "video": "z3FA2kALScU",
+    "url": "javaScript-basic",
+    "technologies": [
+      {
+        "type": "html",
+        "icon": "/icons/courses/html.svg",
+        "title": "html5"
+      },
+      {
+        "type": "css",
+        "icon": "/icons/courses/css.svg",
+        "title": "css"
+      },
+      {
+        "type": "sass",
+        "icon": "/icons/courses/sass.svg",
+        "title": "sass"
+      },
+      {
+        "type": "bootstrap",
+        "icon": "/icons/courses/bootstrap.svg",
+        "title": "bootstrap"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Pro",
+    "description": "Розробка видимої частини будь-якого сайту називається Front-end, і це область програмування, яка розвивається швидше за інші. Жоден сучасний веб-сайт і веб-додаток не обійдуться без Front-end розробника",
+    "promotion": false,
+    "studyingTimeText": "48 занять",
+    "price": 15500,
+    "numberOfVacancies": "Залишилось 7 місць",
+    "video": "z3FA2kALScU",
+    "url": "javaScript-pro",
+    "technologies": [
+      {
+        "type": "html",
+        "icon": "/icons/courses/html.svg",
+        "title": "html5"
+      },
+      {
+        "type": "css",
+        "icon": "/icons/courses/css.svg",
+        "title": "css"
+      },
+      {
+        "type": "sass",
+        "icon": "/icons/courses/sass.svg",
+        "title": "sass"
+      },
+      {
+        "type": "bootstrap",
+        "icon": "/icons/courses/bootstrap.svg",
+        "title": "bootstrap"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Project management",
+    "description": "Розробка видимої частини будь-якого сайту називається Front-end, і це область програмування, яка розвивається швидше за інші. Жоден сучасний веб-сайт і веб-додаток не обійдуться без Front-end розробника",
+    "promotion": false,
+    "studyingTimeText": "16 занять",
+    "price": 9000,
+    "numberOfVacancies": "Залишилось 10 місць",
+    "video": "z3FA2kALScU",
+    "url": "project-management",
+    "technologies": [
+      {
+        "type": "html",
+        "icon": "/icons/courses/html.svg",
+        "title": "html5"
+      },
+      {
+        "type": "css",
+        "icon": "/icons/courses/css.svg",
+        "title": "css"
+      },
+      {
+        "type": "sass",
+        "icon": "/icons/courses/sass.svg",
+        "title": "sass"
+      },
+      {
+        "type": "bootstrap",
+        "icon": "/icons/courses/bootstrap.svg",
+        "title": "bootstrap"
+      }
+    ]
+  }
+]

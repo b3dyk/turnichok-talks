@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Віталій",
+    "surname": "Стончар",
+    "userImg": "/images/course/our-teachers/img01-992@2x.png",
+    "position": "Front-End developer",
+    "companyImg": "/images/course/our-teachers/company-logo/sameit.svg"
+  },
+  {
+    "id": "2",
+    "name": "Павло",
+    "surname": "Негода",
+    "userImg": "/images/course/our-teachers/img02-992@2x.png",
+    "position": "Front-End developer",
+    "companyImg": "/images/course/our-teachers/company-logo/sameit.svg"
+  },
+  {
+    "id": "3",
+    "name": "Наталья",
+    "surname": "Шенчур",
+    "userImg": "/images/course/our-teachers/img03-992@2x.png",
+    "position": "Front-End developer",
+    "companyImg": "/images/course/our-teachers/company-logo/sameit.svg"
+  },
+  {
+    "id": "4",
+    "name": "Максим",
+    "surname": "Віл",
+    "userImg": "/images/course/our-teachers/img04-992@2x.png",
+    "position": "Front-End developer",
+    "companyImg": "/images/course/our-teachers/company-logo/sameit.svg"
+  },
+  {
+    "id": "5",
+    "name": "Alexandr",
+    "surname": "Axenov",
+    "userImg": "/images/course/our-teachers/img05-992@2x.png",
+    "position": "Front-End developer",
+    "companyImg": "/images/course/our-teachers/company-logo/sameit.svg"
+  },
+  {
+    "id": "6",
+    "name": "Alexandr",
+    "surname": "Axenov",
+    "userImg": "/images/course/our-teachers/img05-992@2x.png",
+    "position": "Front-End developer",
+    "companyImg": "/images/course/our-teachers/company-logo/sameit.svg"
+  },
+  {
+    "id": "7",
+    "name": "Максим",
+    "surname": "Віл",
+    "userImg": "/images/course/our-teachers/img04-992@2x.png",
+    "position": "Front-End developer",
+    "companyImg": "/images/course/our-teachers/company-logo/sameit.svg"
+  },
+  {
+    "id": "8",
+    "name": "Alexandr",
+    "surname": "Axenov",
+    "userImg": "/images/course/our-teachers/img05-992@2x.png",
+    "position": "Front-End developer",
+    "companyImg": "/images/course/our-teachers/company-logo/sameit.svg"
+  },
+  {
+    "id": "9",
+    "name": "Alexandr",
+    "surname": "Axenov",
+    "userImg": "/images/course/our-teachers/img05-992@2x.png",
+    "position": "Front-End developer",
+    "companyImg": "/images/course/our-teachers/company-logo/sameit.svg"
+  },
+  {
+    "id": "10",
+    "name": "Alexandr",
+    "surname": "Axenov",
+    "userImg": "/images/course/our-teachers/img05-992@2x.png",
+    "position": "Front-End developer",
+    "companyImg": "/images/course/our-teachers/company-logo/sameit.svg"
+  },
+  {
+    "id": "11",
+    "name": "Максим",
+    "surname": "Віл",
+    "userImg": "/images/course/our-teachers/img04-992@2x.png",
+    "position": "Front-End developer",
+    "companyImg": "/images/course/our-teachers/company-logo/sameit.svg"
+  },
+  {
+    "id": "12",
+    "name": "Alexandr",
+    "surname": "Axenov",
+    "userImg": "/images/course/our-teachers/img05-992@2x.png",
+    "position": "Front-End developer",
+    "companyImg": "/images/course/our-teachers/company-logo/sameit.svg"
+  }
+]

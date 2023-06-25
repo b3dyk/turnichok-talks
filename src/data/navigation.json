@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Курси",
+    "type": "list",
+    "href": "",
+    "protected": false,
+    "variant": ["normal", "extended"],
+    "items": [
+      {
+        "id": 1,
+        "title": "Front-end basic",
+        "href": "/courses/front-end-basic"
+      },
+      {
+        "id": 2,
+        "title": "JavaScript Basic",
+        "href": "/courses/javascript-basic"
+      },
+      {
+        "id": 3,
+        "title": "JavaScript Pro",
+        "href": "/courses/java-script-pro"
+      },
+      {
+        "id": 4,
+        "title": "Project management",
+        "href": "/courses/project-management"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Викладачі",
+    "href": "/teachers",
+    "protected": false,
+    "type": "link",
+    "variant": ["normal", "extended"],
+    "items": []
+  },
+  {
+    "id": 6,
+    "title": "Сертифікати",
+    "href": "/certificates",
+    "protected": false,
+    "type": "link",
+    "variant": ["normal", "extended"],
+    "items": []
+  },
+  {
+    "id": 2,
+    "title": "Про школу",
+    "href": "/about",
+    "protected": false,
+    "type": "link",
+    "variant": ["normal", "extended"],
+    "items": []
+  },
+  {
+    "id": 4,
+    "title": "Контакти",
+    "href": "/contacts",
+    "protected": false,
+    "type": "link",
+    "variant": ["normal", "extended"],
+    "items": []
+  },
+  {
+    "id": 5,
+    "title": "Особистий кабінет",
+    "type": "list",
+    "href": "",
+    "protected": true,
+    "variant": ["extended"],
+    "items": [
+      {
+        "id": 1,
+        "title": "Moї фінанси",
+        "href": "/my-finance"
+      },
+      {
+        "id": 2,
+        "title": "Мої сертифікати",
+        "href": "/my-certificates"
+      },
+      {
+        "id": 3,
+        "title": "Календар",
+        "href": "/calendar"
+      }
+    ]
+  }
+]
